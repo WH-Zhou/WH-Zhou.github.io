@@ -17,7 +17,7 @@ I discovered how the Yarkovsky effect affects the binary asteroids.
 
 For nearly co-planar binaries, for which the mutual orbit aligns with the heliocentric orbit, the (1) always dominates over (2). We propose this effect could account for the synchronization process of small binary asteroids in main belt asteroids and near Earth asteroids. Please check [Zhou et al. 2024](https://iopscience.iop.org/article/10.3847/2041-8213/ad4f7f) for details.
 
-![see](/images/m_epsilon.pdf)
+![see](/images/m_epsilon.jpg)
 
 
 Crater-induced YORP (CYORP) effect
