@@ -8,7 +8,7 @@ author_profile: true
 My research includes:
 * [Binary Yarkovsky effect](#binary-yarkovsky-effect) 
 * [Crater-indcued YORP effect](#crater-induced-yorp-cyorp-effect)
-* [Rotational evolution of main belt asteroids]
+* [Rotational evolution of main belt asteroids](#rotational-evolution-of-main-belt-asteroids)
 
 ## Binary Yarkovsky effect
 -----
@@ -36,4 +36,6 @@ We developed a semi-analytical method to calculate the temperature distribution 
 
 
 ## Rotational evolution of main belt asteroids
+-----
+
 
