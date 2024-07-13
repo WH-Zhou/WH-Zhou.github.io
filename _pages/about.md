@@ -22,7 +22,7 @@ My research
 
  * [Extrasolar system objects](https://wh-zhou.github.io/extrasolar_system/): white dwarf pollution, interstellar objects.
 
-I am excited to chat with experts from different fields and super welcome for collaborations.
+I am eager to chat with experts from different fields and welcome for collaborations!
 
 
 
