@@ -1,13 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+
 
   - title: "Solar System Small Bodies"
     url: /solar_system/    
 
   - title: "Extrasolar System Small Bodies"
     url: /extrasolar_system/  
+
+  - title: "Publications"
+    url: /publications/
 
   # - title: "Teaching"
   #   url: /teaching/    
