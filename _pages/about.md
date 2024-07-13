@@ -12,15 +12,13 @@ Hello, and welcome to my webpage! I am Wen-Han Zhou, a final-year Ph.D. student 
 
 Research Goals
 ------
- 
-* Short-term goal: to understand small body dynamics in the solar sytem and contribute to people's understanding of exoplanetary system based on our knowledge of solar system objects. 
+* Short-term goal: To enhance our understanding of small body dynamics within the solar system and apply this knowledge to improve our comprehension of exoplanetary systems.
 
-* Long-term goal: to understand planetary formation and everthing in planetary science! 
+* Long-term goal: understand the planetary system evolution.
 
 My research
 -----
-
- * [Solar system objects](https://wh-zhou.github.io/solar_system): the Binary Yarkovsky effect, the Crater-induced YORP effect and long-term rotational evolution of main belt asteroids;
+ * [Solar system objects](https://wh-zhou.github.io/solar_system): the Binary Yarkovsky effect, the Crater-induced YORP effect, and the long-term evolution of binary asteroids and asteroid groups.
 
  * [Extrasolar system objects](https://wh-zhou.github.io/extrasolar_system/): white dwarf pollution, interstellar objects.
 
