@@ -24,24 +24,16 @@ We proposed that the volatile gas in the disk could be shielded by the magnetic 
 
 
 
-## Crater-induced YORP (CYORP) effect ([Zhou et al. 2022](https://www.aanda.org/articles/aa/abs/2022/12/aa44386-22/aa44386-22.html); [Zhou & Michel 2024](https://www.aanda.org/articles/aa/abs/2024/02/aa46970-23/aa46970-23.html))
+## Interstellar objects ([Zhou 2020](https://iopscience.iop.org/article/10.3847/1538-4357/ab9f3e/meta); [Zhou et al. 2022](https://www.aanda.org/articles/aa/abs/2022/11/aa44119-22/aa44119-22.html))
 -----
-We developed a semi-analytical method to calculate the temperature distribution of a crater and the produced thermal torque, namely the CYORP torque. We found that roughly speaking, a crater with the size 1/3 of the asteroid could produce a CYORP torque comparable to the YORP torque. Based on this tool, we can estimate the YORP torque change brought by a sub-catastrophic impact, and study the asteroid rotational evolution under collisions and YORP. 
+`Omuamua was found to be in a non principal-axis rotation state, namely tumbling. I proposed that the interaction with interstellar medium (gas or/and dust) could produce a torque triggering the tumbling motion. The timescale is a few Gyrs for Oumuamua-sized objects and is linear to the square of the size.
 
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="margin-right: 10px;">
-    <img src="/images/ryugu.gif" alt="Image 1" style="width: 100%;">
-    <figcaption style="text-align: center;">Temperature of Bennu's surface over a day (numerical).</figcaption>
-  </div>
-  <div style="margin-left: 10px;">
-    <img src="/images/no_scatter_selfheating.gif" alt="Image 2" style="width: 100%;">
-    <figcaption style="text-align: center;">Temperature of a crater over a day (analytical).</figcaption>
-  </div>
-</div>
+By analyzing the observation data of `Oumuamua, we found the most probable shape is oblate shape. We found the hypothesis of Oumuamua as a lightsail is not favored by the observed light curve and the dynamics in the interstellar space.
 
 <figure>
-  <img src="/images/Exm_spin_evolution.jpg" alt="This is the caption for the image">
-  <figcaption>Evolution of the spin rate (left panel) and the obliquity (right panel) of a 10 km synthetic asteroid. In the presence of the static YORP torque (blue line), the asteroid gradually decelerates until it reaches a quasi-non-rotational state. Subsequently, we impose a new rotational state on the asteroid by assigning random values of rotational speed and obliquity. Conversely, when incorporating the CYORP torque (red line), the asteroid follows a different path, exhibiting random fluctuations in its spin rate due to the occurrence of impacts, creating new craters that lead to changes in the CYORP torque. As a result, the asteroid experiences intermittent transitions between spin up and spin down.</figcaption>
+  <img src="/images/Oumuamua.jpg" alt="This is the caption for the image">
+  <figcaption>Probability distribution of `Oumuamua's shape.</figcaption>
 </figure>
+
+
 
