@@ -11,7 +11,7 @@ redirect_from:
 Hello, and welcome to my webpage! I am Wen-Han Zhou, a final-year Ph.D. student at the Observatoire de la Côte d'Azur in Nice, France.
 
 
-My research
+My Research
 -----
  * [Solar system objects](https://wh-zhou.github.io/solar_system): The Binary Yarkovsky effect, the Crater-induced YORP effect, and the long-term evolution of binary asteroids and asteroid groups.
 
