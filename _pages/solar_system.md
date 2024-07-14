@@ -36,11 +36,11 @@ We developed a semi-analytical method to calculate the temperature distribution 
 <div style="display: flex; justify-content: space-between;">
   <div style="margin-right: 10px;">
     <img src="/images/ryugu.gif" alt="Image 1" style="width: 100%;">
-    <figcaption style="text-align: center;">Figure 1: Description of image 1</figcaption>
+    <figcaption style="text-align: center;">Temperature of Bennu's surface over a day (numerical)</figcaption>
   </div>
   <div style="margin-left: 10px;">
     <img src="/images/no_scatter_selfheating.gif" alt="Image 2" style="width: 100%;">
-    <figcaption style="text-align: center;">Figure 2: Description of image 2</figcaption>
+    <figcaption style="text-align: center;">Temperature of a crater over a day (analytical)</figcaption>
   </div>
 </div>
 
@@ -53,12 +53,10 @@ We developed a semi-analytical method to calculate the temperature distribution 
 ## Rotational evolution of main belt asteroids (Zhou et al. under review)
 -----
 
-
-
 <figure>
   <img src="/images/spin_distribution.jpg" alt="This is the caption for the image">
   <figcaption>Period-diameter distribution of main belt asteroids from Gaia (Durech & Hanus, 2023).</figcaption>
 </figure>
 
-"I have discovered a truly marvelous explanation of this, which this margin is too narrow to contain."
+"I have discovered a truly marvelous explanation of this gap, which this margin is too narrow to contain."
 
