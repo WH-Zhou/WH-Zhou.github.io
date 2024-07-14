@@ -28,7 +28,7 @@ For nearly co-planar binaries, for which the mutual orbit aligns with the helioc
 
 
 
-## Crater-induced YORP (CYORP) effect ([Zhou et al. 2022](); [Zhou & Michel, 2024]())
+## Crater-induced YORP (CYORP) effect ([Zhou et al. 2022](https://www.aanda.org/articles/aa/abs/2022/12/aa44386-22/aa44386-22.html); [Zhou & Michel, 2024](https://www.aanda.org/articles/aa/abs/2024/02/aa46970-23/aa46970-23.html))
 -----
 We developed a semi-analytical method to calculate the temperature distribution of a crater and the produced thermal torque, namely the CYORP torque. We found that roughly speaking, a crater with the size 1/3 of the asteroid could produce a CYORP torque comparable to the YORP torque. Based on this tool, we can estimate the YORP torque change brought by a sub-catastrophic impact, and study the asteroid rotational evolution under collisions and YORP. Please check [Zhou et al. 2022]() and [Zhou & Michel, 2024]() for details. 
 
