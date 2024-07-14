@@ -26,6 +26,8 @@ For nearly co-planar binaries, for which the mutual orbit aligns with the helioc
   <figcaption>Schematics of binary Yarkovsky effect.</figcaption>
 </figure>
 
+With this newly discovered effect, more discoveries on binary asteroid dynamics to come soon...
+
 
 
 ## Crater-induced YORP (CYORP) effect on main belt asteroids ([Zhou et al. 2022](https://www.aanda.org/articles/aa/abs/2022/12/aa44386-22/aa44386-22.html); [Zhou & Michel 2024](https://www.aanda.org/articles/aa/abs/2024/02/aa46970-23/aa46970-23.html))
@@ -58,5 +60,7 @@ We developed a semi-analytical method to calculate the temperature distribution 
   <figcaption>Period-diameter distribution of main belt asteroids from Gaia (Durech & Hanus, 2023).</figcaption>
 </figure>
 
-"I have discovered a truly marvelous explanation of this gap, which this margin is too narrow to contain."
+[Durech & Hanus (2023)](https://www.aanda.org/articles/aa/full_html/2023/07/aa45889-23/aa45889-23.html) discovered slowly rotating asteroids are seperated from fast ones by a gap.
+
+I have discovered a truly marvelous explanation of this gap, which this margin is too narrow to contain.
 
