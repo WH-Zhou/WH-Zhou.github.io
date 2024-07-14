@@ -10,7 +10,7 @@ My research includes:
 * [White dwarf pollution](#binary-yarkovsky-effect) 
 * [Interstellar objects](#crater-induced-yorp-cyorp-effect)
 
-## White dwarf pollution ([Zhou et al. 2024](https://www.aanda.org/articles/aa/abs/2024/07/aa49271-24/aa49271-24.html))
+## White dwarf pollution ([Zhou et al. 2024b](https://www.aanda.org/articles/aa/abs/2024/07/aa49271-24/aa49271-24.html))
 -----
 White dwarfs are found to be contaminated by heavy elements, which are believed to originate from external sources such as planetary materials. However, most of polluted white dwarfs are found to be polluted by refractory materials, which is not consistent with the compositions of icy objects in the outer solar system.
 

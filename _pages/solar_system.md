@@ -10,7 +10,7 @@ My research includes:
 * [Crater-indcued YORP effect on main belt asteroids](#crater-induced-yorp-cyorp-effect)
 * [Rotational evolution of main belt asteroids](#rotational-evolution-of-main-belt-asteroids)
 
-## Binary Yarkovsky effect on binary asteroids ([Zhou et al. 2024](https://iopscience.iop.org/article/10.3847/2041-8213/ad4f7f))
+## Binary Yarkovsky effect on binary asteroids ([Zhou et al. 2024a](https://iopscience.iop.org/article/10.3847/2041-8213/ad4f7f))
 -----
 We discovered how the Yarkovsky effect affects the binary asteroids.
 
