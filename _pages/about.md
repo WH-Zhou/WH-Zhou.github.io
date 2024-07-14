@@ -36,6 +36,6 @@ I am eager to chat with experts from different fields and welcome for collaborat
 
 Contact
 -----
-email: wenhan.zhou@oca.eu
+Email: wenhan.zhou@oca.eu
 
 Or you can find me somewhere random in Nice town or the beach!
