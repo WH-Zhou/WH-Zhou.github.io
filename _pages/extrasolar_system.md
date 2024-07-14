@@ -12,12 +12,14 @@ My research includes:
 
 ## White dwarf pollution ([Zhou et al. 2024](https://www.aanda.org/articles/aa/abs/2024/07/aa49271-24/aa49271-24.html))
 -----
-White dwarfs are found to be contaminated by heavy elements, which are believed to originate from external sources such as planetary materials. We proposed that the volatile gas in the disk could be shielded by the magnetic field. most of polluted white dwarfs are found to be polluted by refractory materials
+White dwarfs are found to be contaminated by heavy elements, which are believed to originate from external sources such as planetary materials. However, most of polluted white dwarfs are found to be polluted by refractory materials, which is not consistent with the compositions of icy objects in the outer solar system.
+
+We proposed that the volatile gas in the disk could be shielded by the magnetic field. In the process of orbital circularization, volatile content release from the surface and gas atoms are photoionized on a short timescale. The charged particles interact with the white dwarf magnetic field and are shielded from the corotation radius, where the spin period of white dwarf equals the Keplerian period.
 
 
 <figure>
-  <img src="/images/binary_YK.jpg" alt="This is the caption for the image">
-  <figcaption>Schematics of binary Yarkovsky effect.</figcaption>
+  <img src="/images/schematic_overview.jpg" alt="This is the caption for the image">
+  <figcaption>Schematic of the shileding process.</figcaption>
 </figure>
 
 
