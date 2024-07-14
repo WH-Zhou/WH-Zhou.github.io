@@ -23,7 +23,7 @@ For nearly co-planar binaries, for which the mutual orbit aligns with the helioc
 
 <figure>
   <img src="/images/binary_YK.jpg" alt="This is the caption for the image">
-  <figcaption>We developed a semi-analytical method to calculate the temperature distribution of a crater and the produced thermal torque, namely the YORP torque. We found that roughly speaking, a crater with the size 1/3 of the asteroid could produce a CYORP torque comparable to the YORP torque. Based on this tool, we can estimate the YORP torque change brought by a sub-catastrophic impact</figcaption>
+  <figcaption>Schematics of binary Yarkovsky effect.</figcaption>
 </figure>
 
 
@@ -36,11 +36,11 @@ We developed a semi-analytical method to calculate the temperature distribution 
 <div style="display: flex; justify-content: space-between;">
   <div style="margin-right: 10px;">
     <img src="/images/ryugu.gif" alt="Image 1" style="width: 100%;">
-    <figcaption style="text-align: center;">Temperature of Bennu's surface over a day (numerical)</figcaption>
+    <figcaption style="text-align: center;">Temperature of Bennu's surface over a day (numerical).</figcaption>
   </div>
   <div style="margin-left: 10px;">
     <img src="/images/no_scatter_selfheating.gif" alt="Image 2" style="width: 100%;">
-    <figcaption style="text-align: center;">Temperature of a crater over a day (analytical)</figcaption>
+    <figcaption style="text-align: center;">Temperature of a crater over a day (analytical).</figcaption>
   </div>
 </div>
 
