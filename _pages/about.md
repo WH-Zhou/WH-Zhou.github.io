@@ -12,23 +12,23 @@ Hello, and welcome to my webpage! I am Wen-Han Zhou, a final-year Ph.D. student 
 
 Tools
 -----
-* Thermal models of asteroids: Slef-developed numerical, semi-analytical, analytical thermal models.
+* Thermal models of asteroids: Self-developed numerical, semi-analytical, analytical thermal models.
 
 * N-body codes: [REBOUND](https://rebound.readthedocs.io/en/latest/)/[REBOUNDX](https://reboundx.readthedocs.io/en/latest/) and [PKDGRAV]() to study the orbital and structural evolution of asteroids. 
 
 
 My research
 -----
- * [Solar system objects](https://wh-zhou.github.io/solar_system): the Binary Yarkovsky effect, the Crater-induced YORP effect, and the long-term evolution of binary asteroids and asteroid groups.
+ * [Solar system objects](https://wh-zhou.github.io/solar_system): The Binary Yarkovsky effect, the Crater-induced YORP effect, and the long-term evolution of binary asteroids and asteroid groups.
 
- * [Extrasolar system objects](https://wh-zhou.github.io/extrasolar_system/): white dwarf pollution, interstellar objects.
+ * [Extrasolar system objects](https://wh-zhou.github.io/extrasolar_system/): White dwarf pollution, interstellar objects.
 
 
 Research Goals
 ------
-* Short-term goal: To enhance our understanding of small body dynamics within the solar system and apply this knowledge to improve our comprehension of exoplanetary systems.
+* Short-term goal: Understand of small body dynamics within the solar system and apply this knowledge to improve our comprehension of exoplanetary systems.
 
-* Long-term goal: understand the planetary system evolution.
+* Long-term goal: Understand the planetary system evolution.
 
 
 I am eager to chat with experts from different fields and welcome for collaborations!

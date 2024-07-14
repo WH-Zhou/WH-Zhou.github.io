@@ -26,7 +26,7 @@ We proposed that the volatile gas in the disk could be shielded by the magnetic 
 
 ## Interstellar objects ([Zhou 2020](https://iopscience.iop.org/article/10.3847/1538-4357/ab9f3e/meta); [Zhou et al. 2022](https://www.aanda.org/articles/aa/abs/2022/11/aa44119-22/aa44119-22.html))
 -----
-`Omuamua was found to be in a non principal-axis rotation state, namely tumbling. I proposed that the interaction with interstellar medium (gas or/and dust) could produce a torque triggering the tumbling motion. The timescale is a few Gyrs for Oumuamua-sized objects and is linear to the square of the size.
+`Omuamua was found to be in a non-principal-axis rotation state, namely tumbling. I proposed that the interaction with interstellar medium (gas or/and dust) could produce a torque triggering the tumbling motion. The timescale is a few Gyrs for Oumuamua-sized objects and is linear to the square of the size.
 
 By analyzing the observation data of `Oumuamua, we found the most probable shape is oblate shape. We found the hypothesis of Oumuamua as a lightsail is not favored by the observed light curve and the dynamics in the interstellar space.
 
