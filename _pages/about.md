@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome to my webpage! I am Wen-Han Zhou, a final-year Ph.D. student at the Observatoire de la Côte d'Azur in Nice, France. My research focuses on the long-term evolution of asteroids influenced by thermal effects, specifically the YORP and Yarkovsky effects. I have developed analytical, semi-analytical, and numerical models to analyze the temperature distribution of small bodies. Additionally, I utilize N-body codes such as [rebound](https://rebound.readthedocs.io/en/latest/)/[reboundx](https://reboundx.readthedocs.io/en/latest/) and [pkdgrav]() to study the orbital and structural evolution of asteroids. 
+Hello, and welcome to my webpage! I am Wen-Han Zhou, a final-year Ph.D. student at the Observatoire de la Côte d'Azur in Nice, France. I grew up in Anqin and Suzhou, China. 
+
+Tools
+-----
+* Thermal models of asteroids: Slef-developed numerical, semi-analytical, analytical thermal models.
+
+* N-body codes: [REBOUND](https://rebound.readthedocs.io/en/latest/)/[REBOUNDX](https://reboundx.readthedocs.io/en/latest/) and [PKDGRAV]() to study the orbital and structural evolution of asteroids. 
 
 
 My research
@@ -31,4 +37,4 @@ Contact
 -----
 email: wenhan.zhou@oca.eu
 
-Or you can find me somewhere random in Nice town or the beach.
+Or you can find me somewhere random in Nice town or the beach!
