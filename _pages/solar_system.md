@@ -46,7 +46,7 @@ We developed a semi-analytical method to calculate the temperature distribution 
 
 <figure>
   <img src="/images/Exm_spin_evolution.jpg" alt="This is the caption for the image">
-  <figcaption>We developed a semi-analytical method to calculate the temperature distribution of a crater and the produced thermal torque, namely the YORP torque. We found that roughly speaking, a crater with the size 1/3 of the asteroid could produce a CYORP torque comparable to the YORP torque. Based on this tool, we can estimate the YORP torque change brought by a sub-catastrophic impact</figcaption>
+  <figcaption>Evolution of the spin rate (left panel) and the obliquity (right panel) of a 10 km synthetic asteroid. In the presence of the static YORP torque (blue line), the asteroid gradually decelerates until it reaches a quasi-non-rotational state. Subsequently, we impose a new rotational state on the asteroid by assigning random values of rotational speed and obliquity. Conversely, when incorporating the CYORP torque (red line), the asteroid follows a different path, exhibiting random fluctuations in its spin rate due to the occurrence of impacts, creating new craters that lead to changes in the CYORP torque. As a result, the asteroid experiences intermittent transitions between spin up and spin down.</figcaption>
 </figure>
 
 
