@@ -42,9 +42,13 @@ By analyzing the observation data of `Oumuamua, we found the most probable shape
   <figcaption>Probability distribution of `Oumuamua's shape.</figcaption>
 </figure>
 
-## Debris disk during RGB and AGB phase (in progress)
+## Debris disk 
+
+- Orbital evolution during RGB and AGB phase (in progress)
 
 The debris disk expands during the red giant branch (RGB) and asymptotic giant branch (AGB) phase. The surviving objects lead to pollution in white dwarfs, providing valuable information on compositions and architectures of exo-planetary system. We model the orbital evolution of asteroids in during the RGB and AGB phase, which will tell us the composition and distribution of the progenitors of debris disks around the white dwarf.
+
+- Spectra analysis of debris disks (in progress)
 
 
 
