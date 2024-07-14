@@ -50,7 +50,7 @@ We developed a semi-analytical method to calculate the temperature distribution 
 </figure>
 
 
-## * Rotational evolution of main belt asteroids
+## * Rotational evolution of main belt asteroids (Zhou et al. under review)
 -----
 
 
@@ -60,4 +60,5 @@ We developed a semi-analytical method to calculate the temperature distribution 
   <figcaption>Period-diameter distribution of main belt asteroids from Gaia (Durech & Hanus, 2023).</figcaption>
 </figure>
 
+"I have discovered a truly marvelous explanation of this, which this margin is too narrow to contain."
 
