@@ -12,7 +12,7 @@ My research includes:
 
 ## Binary Yarkovsky effect
 -----
-I discovered how the Yarkovsky effect affects the binary asteroids.
+We discovered how the Yarkovsky effect affects the binary asteroids.
 
 (1) The eclipse-induced thermal perturbation produces a net thermal force that moves the component towards the synchronous orbit where the spin period equals the orbital period.
 
