@@ -10,7 +10,7 @@ My research includes:
 * [Crater-indcued YORP effect](#crater-induced-yorp-cyorp-effect)
 * [Rotational evolution of main belt asteroids](#rotational-evolution-of-main-belt-asteroids)
 
-## Binary Yarkovsky effect
+## Binary Yarkovsky effect ([Zhou et al. 2024](https://iopscience.iop.org/article/10.3847/2041-8213/ad4f7f))
 -----
 We discovered how the Yarkovsky effect affects the binary asteroids.
 
@@ -28,7 +28,7 @@ For nearly co-planar binaries, for which the mutual orbit aligns with the helioc
 
 
 
-## Crater-induced YORP (CYORP) effect
+## Crater-induced YORP (CYORP) effect ([Zhou et al. 2022](); [Zhou & Michel, 2024]())
 -----
 We developed a semi-analytical method to calculate the temperature distribution of a crater and the produced thermal torque, namely the CYORP torque. We found that roughly speaking, a crater with the size 1/3 of the asteroid could produce a CYORP torque comparable to the YORP torque. Based on this tool, we can estimate the YORP torque change brought by a sub-catastrophic impact, and study the asteroid rotational evolution under collisions and YORP. Please check [Zhou et al. 2022]() and [Zhou & Michel, 2024]() for details. 
 
