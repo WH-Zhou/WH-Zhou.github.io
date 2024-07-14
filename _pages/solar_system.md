@@ -51,6 +51,8 @@ We developed a semi-analytical method to calculate the temperature distribution 
   <figcaption>Evolution of the spin rate (left panel) and the obliquity (right panel) of a 10 km synthetic asteroid. In the presence of the static YORP torque (blue line), the asteroid gradually decelerates until it reaches a quasi-non-rotational state. Subsequently, we impose a new rotational state on the asteroid by assigning random values of rotational speed and obliquity. Conversely, when incorporating the CYORP torque (red line), the asteroid follows a different path, exhibiting random fluctuations in its spin rate due to the occurrence of impacts, creating new craters that lead to changes in the CYORP torque. As a result, the asteroid experiences intermittent transitions between spin up and spin down.</figcaption>
 </figure>
 
+With the CYORP, it's time to estimate the stochastic YORP and Yarkovsky effect...
+
 
 ## Rotational evolution of main belt asteroids (Zhou et al. under review)
 -----
