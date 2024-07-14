@@ -35,11 +35,11 @@ We developed a semi-analytical method to calculate the temperature distribution 
 
 <div style="display: flex; justify-content: space-between;">
   <div style="margin-right: 10px;">
-    <img src="/images/ryugu.gif" alt="Image 1" style="width: 75%;">
+    <img src="/images/ryugu.gif" alt="Image 1" style="width: 100%;">
     <figcaption style="text-align: center;">Figure 1: Description of image 1</figcaption>
   </div>
   <div style="margin-left: 10px;">
-    <img src="/images/no_scatter_selfheating.gif" alt="Image 2" style="width: 75%;">
+    <img src="/images/no_scatter_selfheating.gif" alt="Image 2" style="width: 100%;">
     <figcaption style="text-align: center;">Figure 2: Description of image 2</figcaption>
   </div>
 </div>
