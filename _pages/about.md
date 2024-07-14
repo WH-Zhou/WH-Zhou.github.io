@@ -15,7 +15,7 @@ My Research
 -----
  * [Solar system objects](https://wh-zhou.github.io/solar_system): The Binary Yarkovsky effect, the Crater-induced YORP effect, and the long-term evolution of binary asteroids and asteroid groups.
 
- * [Extrasolar system objects](https://wh-zhou.github.io/extrasolar_system/): White dwarf pollution, interstellar objects.
+ * [Extrasolar system objects](https://wh-zhou.github.io/extrasolar_system/): White dwarf pollution, interstellar objects, debris disks.
 
 
  Tools
