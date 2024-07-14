@@ -7,8 +7,8 @@ author_profile: true
 
 
 My research includes:
-* [White dwarf pollution](#binary-yarkovsky-effect) 
-* [Interstellar objects](#crater-induced-yorp-cyorp-effect)
+* [White dwarf pollution](#white-dwarf-pollution-zhou-et-al-2024b) 
+* [Interstellar objects](#interstellar-objects-zhou-2020-zhou-et-al-2022)
 
 ## White dwarf pollution ([Zhou et al. 2024b](https://www.aanda.org/articles/aa/abs/2024/07/aa49271-24/aa49271-24.html))
 -----
