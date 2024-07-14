@@ -39,3 +39,10 @@ We developed a semi-analytical method to calculate the temperature distribution 
 -----
 
 
+
+<figure>
+  <img src="/images/spin_distribution.jpg" alt="This is the caption for the image">
+  <figcaption>Period-diameter distribution of main belt asteroids from Gaia ([Durech & Hanus, 2023](https://www.aanda.org/articles/aa/abs/2023/07/aa45889-23/aa45889-23.html)).</figcaption>
+</figure>
+
+
