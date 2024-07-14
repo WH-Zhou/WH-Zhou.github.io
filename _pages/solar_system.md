@@ -22,7 +22,7 @@ For nearly co-planar binaries, for which the mutual orbit aligns with the helioc
 
 
 <figure>
-  <img src="/images/m_epsilon.jpg" alt="This is the caption for the image">
+  <img src="/images/binary_YK.jpg" alt="This is the caption for the image">
   <figcaption>We developed a semi-analytical method to calculate the temperature distribution of a crater and the produced thermal torque, namely the YORP torque. We found that roughly speaking, a crater with the size 1/3 of the asteroid could produce a CYORP torque comparable to the YORP torque. Based on this tool, we can estimate the YORP torque change brought by a sub-catastrophic impact</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ For nearly co-planar binaries, for which the mutual orbit aligns with the helioc
 -----
 We developed a semi-analytical method to calculate the temperature distribution of a crater and the produced thermal torque, namely the CYORP torque. We found that roughly speaking, a crater with the size 1/3 of the asteroid could produce a CYORP torque comparable to the YORP torque. Based on this tool, we can estimate the YORP torque change brought by a sub-catastrophic impact, and study the asteroid rotational evolution under collisions and YORP. Please check [Zhou et al. 2022]() and [Zhou & Michel, 2024]() for details. 
 
-![see](/images/foo-bar-identity-th.jpg)
+![see](/images/ryugu.gif)
 
 
 ## Rotational evolution of main belt asteroids
