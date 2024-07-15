@@ -64,5 +64,5 @@ With CYORP, it's time to estimate the stochastic YORP and Yarkovsky effect...
 
 [Durech & Hanus (2023)](https://www.aanda.org/articles/aa/full_html/2023/07/aa45889-23/aa45889-23.html) discovered slowly rotating asteroids are seperated from fast ones by a gap.
 
-I have discovered a truly marvelous explanation of this gap, which this margin is too narrow to contain.
+I have discovered a truly marvelous explanation of this gap, which this space is too narrow to contain.
 
