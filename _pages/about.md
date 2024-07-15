@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="float: right; width: 300px; margin: 10px;">
+<div style="float: right; width: 200px; margin: 10px;">
   <img src="/images/profile_photop2.JPG" alt="Small Figure" style="width: 100%;">
   <figcaption style="text-align: center;">pretending to be an observer</figcaption>
 </div>
