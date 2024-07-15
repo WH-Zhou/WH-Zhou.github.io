@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome to my webpage! I am Wen-Han Zhou, a final-year Ph.D. student at the Observatoire de la Côte d'Azur in Nice, France. My work focues on the dynamics of small bodies.
+Hello, and welcome to my webpage! I am Wen-Han Zhou, a final-year Ph.D. student at the Observatoire de la Côte d'Azur in Nice, France. I am a theorist working in the dynamics of small bodies.
 
 ![figure](/images/profile_photop2.JPG){: .align-right width="300px" caption="1"}
 
