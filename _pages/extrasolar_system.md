@@ -38,7 +38,7 @@ We proposed that the volatile gas in the disk could be shielded by the magnetic 
 By analyzing the observation data of `Oumuamua, we found the most probable shape is oblate shape. We found the hypothesis of Oumuamua as a lightsail is not favored by the observed light curve and the dynamics in the interstellar space.
 
 <figure>
-  <img src="/images/Oumuamua.jpg" alt="This is the caption for the image">
+  <img src="/images/Oumuamua.jpg" alt="This is the caption for the image" style="width:50%; height:auto;">
   <figcaption>Probability distribution of `Oumuamua's shape.</figcaption>
 </figure>
 
