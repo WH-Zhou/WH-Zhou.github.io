@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Wen-Han Zhou (周文翰)"
 excerpt: ""
 author_profile: true
 redirect_from: 
