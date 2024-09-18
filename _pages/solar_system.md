@@ -66,3 +66,5 @@ With CYORP, it's time to estimate the stochastic YORP and Yarkovsky effect...
 
 I have discovered a truly marvelous explanation of this gap, which this space is too narrow to contain.
 
+
+
