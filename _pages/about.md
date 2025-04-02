@@ -13,7 +13,7 @@ redirect_from:
   <figcaption style="text-align: center;">pretending to be an observer</figcaption>
 </div>
 
-Hello, and welcome to my homepage! I am Wen-Han Zhou, a final-year Ph.D. student at the Observatoire de la Côte d'Azur in Nice, France. I am a theorist working in the dynamics of small bodies.
+Hello, and welcome to my homepage! I am Wen-Han Zhou, a JSPS postdoc fellow at the University of Tokyo, Japan. I am a theorist working in the science of small bodies.
 
 
 
@@ -45,4 +45,3 @@ Contact
 -----
 Email: wenhan.zhou@oca.eu
 
-Or you can find me somewhere random in Nice town or the beach!
