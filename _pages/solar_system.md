@@ -10,7 +10,7 @@ My research includes:
 * [Crater-indcued YORP effect on main belt asteroids](#crater-induced-yorp-cyorp-effect)
 * [Rotational evolution of main belt asteroids](#rotational-evolution-of-main-belt-asteroids)
 
-## Binary Yarkovsky effect on binary asteroids ([Zhou et al. 2024a](https://iopscience.iop.org/article/10.3847/2041-8213/ad4f7f); Zhou, submitted)
+## Binary Yarkovsky effect on binary asteroids ([Zhou et al. 2024a](https://iopscience.iop.org/article/10.3847/2041-8213/ad4f7f); [Zhou, 2024](https://www.aanda.org/articles/aa/abs/2024/12/aa52146-24/aa52146-24.html))
 -----
 We discovered how the Yarkovsky effect affects the binary asteroids.
 
@@ -24,6 +24,11 @@ For nearly co-planar binaries, for which the mutual orbit aligns with the helioc
 <figure>
   <img src="/images/binary_YK.jpg" alt="This is the caption for the image">
   <figcaption>Schematics of binary Yarkovsky effect.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/binary_temperature.gif" alt="This is the caption for the image">
+  <figcaption>The temperature distribution of binary asteroids.</figcaption>
 </figure>
 
 With this newly discovered effect, more discoveries on binary asteroid dynamics to come soon...
@@ -54,17 +59,24 @@ We developed a semi-analytical method to calculate the temperature distribution 
 With CYORP, it's time to estimate the stochastic YORP and Yarkovsky effect...
 
 
-## Rotational evolution of main belt asteroids (Zhou et al. accepted by Nature Astronomy)
+## Rotational evolution of main belt asteroids ([Zhou et al. 2025](https://www.nature.com/articles/s41550-025-02489-8))
 -----
 
+
+There are three mysteries regarding the slowly rotating asteroids in the main belt:
+
+1. Excess of slow rotators. The overabundance of asteroids rotating slowly was realized about 40 years ago. Collisions typically produce a Maxwell distribution in the spin rate and the classic YORP theory produces a uniform distribution. The existing theory cannot explain the excess of slow rotators.
+
+2. Gap. Recent Gaia observation reveals a visible gap in the period-diameter distribution of asteroids, which separates the slow rotators from faster rotators. Classic theory only predicts smooth distributions without any kind of gap.
+
+3. Tumbler distribution. The distribution of tumbling asteroids in the period-diameter is not well explained.
+
+This paper attempted to solve the above three problems by constructing a novel comprehensive rotation evolution model and fitting it to Gaia observation.
+
 <figure>
-  <img src="/images/spin_distribution.jpg" alt="This is the caption for the image">
-  <figcaption>Period-diameter distribution of main belt asteroids from Gaia (Durech & Hanus, 2023).</figcaption>
+  <img src="/images/spin_evolution.gif" alt="This is the caption for the image">
+  <figcaption>Period-diameter distribution of main belt asteroids from Gaia data (left) and simulation (right).</figcaption>
 </figure>
-
-[Durech & Hanus (2023)](https://www.aanda.org/articles/aa/full_html/2023/07/aa45889-23/aa45889-23.html) discovered slowly rotating asteroids are seperated from fast ones by a gap.
-
-I have discovered a truly marvelous explanation of this gap, which this space is too narrow to contain.
 
 
 
