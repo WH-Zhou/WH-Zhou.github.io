@@ -26,10 +26,11 @@ For nearly co-planar binaries, for which the mutual orbit aligns with the helioc
   <figcaption>Schematics of binary Yarkovsky effect.</figcaption>
 </figure>
 
-<figure>
-  <img src="/images/binary_temperature.gif" alt="This is the caption for the image">
-  <figcaption>The temperature distribution of binary asteroids.</figcaption>
+<figure style="max-width: 400px; margin: auto;">
+  <img src="/images/binary_temperature.gif" alt="This is the caption for the image" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center;">The temperature distribution of binary asteroids.</figcaption>
 </figure>
+
 
 With this newly discovered effect, more discoveries on binary asteroid dynamics to come soon...
 
