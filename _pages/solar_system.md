@@ -60,7 +60,7 @@ We developed a semi-analytical method to calculate the temperature distribution 
 With CYORP, it's time to estimate the stochastic YORP and Yarkovsky effect...
 
 
-## Rotational evolution of main belt asteroids ([Zhou et al. 2025](https://www.nature.com/articles/s41550-025-02489-8))
+## Rotational evolution of main belt asteroids ([Zhou et al. 2025, Nat. Astro.](https://www.nature.com/articles/s41550-025-02489-8))
 -----
 
 
