@@ -13,7 +13,7 @@ redirect_from:
   <figcaption style="text-align: center;">pretending to be an observer</figcaption>
 </div>
 
-Hello, and welcome to my homepage! I am Wen-Han Zhou, and am currently a JSPS postdoc fellow at the University of Tokyo, Japan. I am a theorist working in the science of small bodies.
+Hello, and welcome to my homepage! I am Wen-Han Zhou, a theorist working in the science of small bodies. I obtained my PhD from Observatoire de la Côte d'Azur, Nice, France and am currently a JSPS postdoc fellow at the University of Tokyo, Japan.
 
 
 
