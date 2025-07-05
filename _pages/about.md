@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="float: right; width: 200px; margin: 10px;">
   <img src="/images/profile_photop2.JPG" alt="Small Figure" style="width: 100%;">
-  <figcaption style="text-align: center;">pretending to be an observer</figcaption>
+  <figcaption style="text-align: center;">pretending to be an observer...</figcaption>
 </div>
 
 Hello, and welcome to my homepage! I am Wen-Han Zhou, a theorist working in the science of small bodies. I obtained my PhD from Observatoire de la Côte d'Azur, Nice, France and am currently a JSPS postdoc fellow at the University of Tokyo, Japan.
